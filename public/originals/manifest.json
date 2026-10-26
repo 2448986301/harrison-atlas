@@ -1,0 +1,47 @@
+[
+  {
+    "id": "satellite",
+    "name": "9db99ec6115f8224235c50da7d2cd409.jpeg",
+    "path": "originals/satellite.jpeg",
+    "width": 4172,
+    "height": 6294,
+    "hash": "c08d2d26c3b66c0fe7d330670586134a9f5ebef4d9766ab507652844b081720a",
+    "kind": "original"
+  },
+  {
+    "id": "roads",
+    "name": "4233.jpeg",
+    "path": "originals/roads.jpeg",
+    "width": 1079,
+    "height": 1091,
+    "hash": "f6f51446ba23dfe9849e9fb88c6d4a8815eaaf67bbd2bf9ad57bc1a3bfc45982",
+    "kind": "original"
+  },
+  {
+    "id": "districts",
+    "name": "4250.jpeg",
+    "path": "originals/districts.jpeg",
+    "width": 1099,
+    "height": 1080,
+    "hash": "a51b22b65df8073d94cb29fff2b0ab337731208ebb620c32847be00e88e65097",
+    "kind": "original"
+  },
+  {
+    "id": "metro",
+    "name": "4251.jpeg",
+    "path": "originals/metro.jpeg",
+    "width": 1080,
+    "height": 1358,
+    "hash": "fd9a0bcf53c7c5195bb3979bb85a343c96c272faa06f0c8431b914a83a573e34",
+    "kind": "original"
+  },
+  {
+    "id": "capital",
+    "name": "e8d8755b1f97c1db3991b74cecca2088.jpeg",
+    "path": "originals/capital.jpeg",
+    "width": 1065,
+    "height": 1548,
+    "hash": "abc6050d7513c5960f253c97f067adad55c37312649882a80b4c0c61061d08b6",
+    "kind": "original"
+  }
+]
